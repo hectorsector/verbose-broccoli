@@ -1,0 +1,7 @@
+name: "local-action"
+description: Grading action for local exercise
+author: githubtraining
+
+runs:
+  using: node12
+  main: "dist/index.js"
